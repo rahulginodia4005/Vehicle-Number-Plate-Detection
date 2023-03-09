@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 315, "ymin": 192, "xmax": 596, "ymax": 267}}]
+[{"name": "number_plate", "ocr_text":"DL 6C AB 123X", "bndbox": {"xmin": 315, "ymin": 192, "xmax": 596, "ymax": 267}}]

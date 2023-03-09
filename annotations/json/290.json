@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 456, "ymin": 293, "xmax": 563, "ymax": 341}}]
+[{"name": "number_plate", "ocr_text":"HD 02 NP 0", "bndbox": {"xmin": 456, "ymin": 293, "xmax": 563, "ymax": 341}}]

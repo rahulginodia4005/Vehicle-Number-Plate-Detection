@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 267, "ymin": 509, "xmax": 502, "ymax": 573}}]
+[{"name": "number_plate", "ocr_text":"TN 19 (TC) 91", "bndbox": {"xmin": 267, "ymin": 509, "xmax": 502, "ymax": 573}}]

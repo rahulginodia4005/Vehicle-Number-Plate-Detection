@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 390, "ymin": 430, "xmax": 634, "ymax": 489}}]
+[{"name": "number_plate", "ocr_text":"UP 50 AS 4535", "bndbox": {"xmin": 390, "ymin": 430, "xmax": 634, "ymax": 489}}]
