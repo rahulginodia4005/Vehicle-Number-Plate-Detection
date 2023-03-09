@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 95, "ymin": 262, "xmax": 196, "ymax": 286}}]
+[{"name": "number_plate", "ocr_text":"RJ 02 CC 0784", "bndbox": {"xmin": 95, "ymin": 262, "xmax": 196, "ymax": 286}}]

@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 23, "ymin": 35, "xmax": 187, "ymax": 103}}]
+[{"name": "number_plate", "ocr_text":"MH 20 BY 3665", "bndbox": {"xmin": 23, "ymin": 35, "xmax": 187, "ymax": 103}}]

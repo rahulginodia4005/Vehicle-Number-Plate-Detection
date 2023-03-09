@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 186, "ymin": 97, "xmax": 363, "ymax": 154}}]
+[{"name": "number_plate", "ocr_text":"UP 16 TC 1366", "bndbox": {"xmin": 186, "ymin": 97, "xmax": 363, "ymax": 154}}]

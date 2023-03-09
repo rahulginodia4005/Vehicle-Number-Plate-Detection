@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 204, "ymin": 268, "xmax": 357, "ymax": 378}}]
+[{"name": "number_plate", "ocr_text":"MP 09 CP 9052", "bndbox": {"xmin": 204, "ymin": 268, "xmax": 357, "ymax": 378}}]

@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 20, "ymin": 169, "xmax": 411, "ymax": 399}}]
+[{"name": "number_plate", "ocr_text":"MH 12 AK 5600", "bndbox": {"xmin": 20, "ymin": 169, "xmax": 411, "ymax": 399}}]

@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 114, "ymin": 257, "xmax": 414, "ymax": 332}}]
+[{"name": "number_plate", "ocr_text":"HP SX 4000", "bndbox": {"xmin": 114, "ymin": 257, "xmax": 414, "ymax": 332}}]
