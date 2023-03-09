@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 125, "ymin": 425, "xmax": 360, "ymax": 490}}]
+[{"name": "number_plate", "ocr_text":"PB 08 CX 2959", "bndbox": {"xmin": 125, "ymin": 425, "xmax": 360, "ymax": 490}}]

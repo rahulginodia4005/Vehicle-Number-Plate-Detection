@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 137, "ymin": 241, "xmax": 274, "ymax": 294}}]
+[{"name": "number_plate", "ocr_text":"WB 06 F 9209", "bndbox": {"xmin": 137, "ymin": 241, "xmax": 274, "ymax": 294}}]

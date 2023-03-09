@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 121, "ymin": 107, "xmax": 192, "ymax": 169}}]
+[{"name": "number_plate", "ocr_text":"KA 21 M 5519", "bndbox": {"xmin": 121, "ymin": 107, "xmax": 192, "ymax": 169}}]

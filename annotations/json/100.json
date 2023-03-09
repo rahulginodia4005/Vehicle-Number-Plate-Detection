@@ -1,1 +1,1 @@
-[{"name": "number_plate", "bndbox": {"xmin": 606, "ymin": 287, "xmax": 782, "ymax": 353}}]
+[{"name": "number_plate", "ocr_text":"KL 01 AL 1661", "bndbox": {"xmin": 606, "ymin": 287, "xmax": 782, "ymax": 353}}]
